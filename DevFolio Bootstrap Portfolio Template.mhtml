@@ -1,0 +1,981 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/Galank/OneDrive/Desktop/DevFolio%20Bootstrap%20Portfolio%20Template%20-%20Index.html
+Subject: DevFolio Bootstrap Portfolio Template - Index
+Date: Wed, 17 Apr 2024 19:24:25 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--9eIXSKPPr7GDTKoxtX7o8rxd1A1g1vYJEGUie7z6B1----"
+
+
+------MultipartBoundary--9eIXSKPPr7GDTKoxtX7o8rxd1A1g1vYJEGUie7z6B1----
+Content-Type: text/html
+Content-ID: <frame-811E233ED72B63461086E318659ACAA2@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Galank/OneDrive/Desktop/DevFolio%20Bootstrap%20Portfolio%20Template%20-%20Index.html
+
+<!DOCTYPE html><!-- saved from url=3D(0051)file:///C:/Users/Galank/OneDrive=
+/Desktop/index.html --><html lang=3D"en"><head><meta http-equiv=3D"Content-=
+Type" content=3D"text/html; charset=3DUTF-8">
+ =20
+  <meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewp=
+ort">
+
+  <title>DevFolio Bootstrap Portfolio Template - Index</title>
+  <meta content=3D"" name=3D"description">
+  <meta content=3D"" name=3D"keywords">
+
+  <!-- Favicons -->
+  <link href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/img/favicon=
+.png" rel=3D"icon">
+  <link href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/img/apple-t=
+ouch-icon.png" rel=3D"apple-touch-icon">
+
+  <!-- Vendor CSS Files -->
+  <link href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/vendor/boot=
+strap/css/bootstrap.min.css" rel=3D"stylesheet">
+  <link href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/vendor/boot=
+strap-icons/bootstrap-icons.css" rel=3D"stylesheet">
+  <link href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/vendor/glig=
+htbox/css/glightbox.min.css" rel=3D"stylesheet">
+  <link href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/vendor/swip=
+er/swiper-bundle.min.css" rel=3D"stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/css/style.c=
+ss" rel=3D"stylesheet">
+
+  <!-- =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D
+  * Template Name: DevFolio
+  * Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-ht=
+ml-template/
+  * Updated: Mar 17 2024 with Bootstrap v5.3.3
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D -->
+</head>
+
+<body>=20
+
+  <!-- =3D=3D=3D=3D=3D=3D=3D Header =3D=3D=3D=3D=3D=3D=3D -->
+  <header id=3D"header" class=3D"fixed-top">
+    <div class=3D"container d-flex align-items-center justify-content-betwe=
+en">
+
+      <h1 class=3D"logo"><a href=3D"file:///C:/Users/Galank/OneDrive/Deskto=
+p/index.html">KreatifUX</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href=3D"index.html" class=3D"logo"><img src=3D"assets/img/log=
+o.png" alt=3D"" class=3D"img-fluid"></a>-->
+
+      <nav id=3D"navbar" class=3D"navbar">
+        <ul>
+          <li><a class=3D"nav-link scrollto active" href=3D"file:///C:/User=
+s/Galank/OneDrive/Desktop/index.html#hero">Beranda</a></li>
+          <li><a class=3D"nav-link scrollto" href=3D"file:///C:/Users/Galan=
+k/OneDrive/Desktop/index.html#about">Tentang Saya</a></li>
+          <li><a class=3D"nav-link scrollto" href=3D"file:///C:/Users/Galan=
+k/OneDrive/Desktop/index.html#services">Layanan</a></li>
+          <li><a class=3D"nav-link scrollto " href=3D"file:///C:/Users/Gala=
+nk/OneDrive/Desktop/index.html#work">Portofolio</a></li>
+          <li><a class=3D"nav-link scrollto " href=3D"file:///C:/Users/Gala=
+nk/OneDrive/Desktop/index.html#blog">Artikel</a></li>
+          <li><a class=3D"nav-link scrollto" href=3D"file:///C:/Users/Galan=
+k/OneDrive/Desktop/index.html#contact">Kontak</a></li>
+          <!-- <li class=3D"dropdown"><a href=3D"#"><span>Drop Down</span> =
+<i class=3D"bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href=3D"#">Drop Down 1</a></li>
+              <li class=3D"dropdown"><a href=3D"#"><span>Deep Drop Down</sp=
+an> <i class=3D"bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href=3D"#">Deep Drop Down 1</a></li>
+                  <li><a href=3D"#">Deep Drop Down 2</a></li>
+                  <li><a href=3D"#">Deep Drop Down 3</a></li>
+                  <li><a href=3D"#">Deep Drop Down 4</a></li>
+                  <li><a href=3D"#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href=3D"#">Drop Down 2</a></li>
+              <li><a href=3D"#">Drop Down 3</a></li>
+              <li><a href=3D"#">Drop Down 4</a></li>
+            </ul> -->
+        <i class=3D"bi bi-list mobile-nav-toggle"></i>
+      </ul></nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- =3D=3D=3D=3D=3D=3D=3D Hero Section =3D=3D=3D=3D=3D=3D=3D -->
+  <div id=3D"hero" class=3D"hero route bg-image" style=3D"background-image:=
+ url(assets/img/work-6.jpg)">
+    <div class=3D"overlay-itro"></div>
+    <div class=3D"hero-content display-table">
+      <div class=3D"table-cell">
+        <div class=3D"container">
+          <!--<p class=3D"display-6 color-d">Hello, world!</p>-->
+          <h1 class=3D"hero-title mb-4">Hallo Semua Selamat Datang</h1>
+          <p class=3D"hero-subtitle"><span class=3D"typed" data-typed-items=
+=3D"UI/UX, Web Design, Graphic Design"></span></p>
+          <!-- <p class=3D"pt-3"><a class=3D"btn btn-primary btn js-scroll =
+px-4" href=3D"#about" role=3D"button">Learn More</a></p> -->
+        </div>
+      </div>
+    </div>
+  </div><!-- End Hero Section -->
+
+  <main id=3D"main">
+
+    <!-- =3D=3D=3D=3D=3D=3D=3D About Section =3D=3D=3D=3D=3D=3D=3D -->
+    <section id=3D"about" class=3D"about-mf sect-pt4 route">
+      <div class=3D"container">
+        <div class=3D"row">
+          <div class=3D"col-sm-12">
+            <div class=3D"box-shadow-full">
+              <div class=3D"row">
+                <div class=3D"col-md-6">
+                  <div class=3D"row">
+                    <div class=3D"col-sm-6 col-md-5">
+                      <div class=3D"about-img">
+                        <img src=3D"file:///C:/Users/Galank/OneDrive/Deskto=
+p/assets/img/Dias.JPG" class=3D"img-fluid rounded b-shadow-a" alt=3D"">
+                      </div>
+                    </div>
+                    <div class=3D"col-sm-6 col-md-7">
+                      <div class=3D"about-info">
+                        <p><span class=3D"title-s">Name: </span> <span>Gala=
+nk Rasta Fariant</span></p>
+                        <p><span class=3D"title-s">Profile: </span> <span>U=
+I/UX Design</span></p>
+                        <p><span class=3D"title-s">Email: </span> <span>gal=
+ankfrny@gmail.com</span></p>
+                        <p><span class=3D"title-s">Phone: </span> <span>+62=
+82134565218</span></p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class=3D"skill-mf">
+                    <p class=3D"title-s">Skill</p>
+                    <span>Figma</span> <span class=3D"pull-right">85%</span=
+>
+                    <div class=3D"progress">
+                      <div class=3D"progress-bar" role=3D"progressbar" styl=
+e=3D"width: 85%;" aria-valuenow=3D"85" aria-valuemin=3D"0" aria-valuemax=3D=
+"100"></div>
+                    </div>
+                    <span>Adobe Photosop</span> <span class=3D"pull-right">=
+75%</span>
+                    <div class=3D"progress">
+                      <div class=3D"progress-bar" role=3D"progressbar" styl=
+e=3D"width: 75%" aria-valuenow=3D"75" aria-valuemin=3D"0" aria-valuemax=3D"=
+100"></div>
+                    </div>
+                    <span>Adobe XD</span> <span class=3D"pull-right">50%</s=
+pan>
+                    <div class=3D"progress">
+                      <div class=3D"progress-bar" role=3D"progressbar" styl=
+e=3D"width: 50%" aria-valuenow=3D"50" aria-valuemin=3D"0" aria-valuemax=3D"=
+100"></div>
+                    </div>
+                    <span></span>Adobe Ilustrator <span class=3D"pull-right=
+">80%</span>
+                    <div class=3D"progress">
+                      <div class=3D"progress-bar" role=3D"progressbar" styl=
+e=3D"width: 80%" aria-valuenow=3D"90" aria-valuemin=3D"0" aria-valuemax=3D"=
+100"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class=3D"col-md-6">
+                  <div class=3D"about-me pt-4 pt-md-0">
+                    <div class=3D"title-box-2">
+                      <h5 class=3D"title-left">
+                        Tentang Saya=20
+                      </h5>
+                    </div>
+                    <p class=3D"lead">
+                      Saya adalah seorang mahasiswa semester 4 di Jurusan I=
+nformatika di Institut Teknologi dan Sains Kesehatan RS Dr. Soepraoen Malan=
+g (ITSK RS Dr. Soepraoen Malang). Dalam perjalanan akademis saya, saya tela=
+h menemukan panggilan saya yang kuat dalam dunia desain UI/UX. Kecintaan sa=
+ya terhadap dunia desain dan teknologi membawa saya untuk menggali lebih da=
+lam ilmu di bidang ini.
+                    </p>
+                    <p class=3D"lead">
+                      Dengan semangat belajar yang berkobar, saya terus men=
+jelajahi berbagai aspek dari UI/UX design, mengeksplorasi konsep-konsep bar=
+u, dan mengasah keterampilan saya untuk menjadi kontributor yang berarti da=
+lam industri yang terus berkembang ini. Saya percaya bahwa desain UI/UX mem=
+iliki peran yang sangat penting dalam menciptakan pengalaman digital yang m=
+emuaskan dan bermakna bagi pengguna.
+                    </p>
+                    <p class=3D"lead">
+                      Melalui dedikasi dan semangat saya, saya berharap dap=
+at menciptakan dampak positif melalui desain interface yang tidak hanya est=
+etis, tetapi juga memperhatikan kebutuhan, kenyamanan, dan pengalaman pengg=
+una secara menyeluruh. Saya yakin bahwa dengan memadukan kreativitas, penge=
+tahuan teknis, dan empati terhadap pengguna, saya dapat menjadi agen peruba=
+han yang membawa inovasi dan solusi yang bermanfaat dalam dunia desain UI/U=
+X.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- =3D=3D=3D=3D=3D=3D=3D Services Section =3D=3D=3D=3D=3D=3D=3D -->
+    <section id=3D"services" class=3D"services-mf pt-5 route">
+      <div class=3D"container">
+        <div class=3D"row">
+          <div class=3D"col-sm-12">
+            <div class=3D"title-box text-center">
+              <h3 class=3D"title-a">
+                Layanan
+              </h3>
+              <p class=3D"subtitle-a">
+                Membawa ide-ide Anda menjadi kenyataan dengan desain yang m=
+enawan dan teknologi terdepan
+              </p>
+              <div class=3D"line-mf"></div>
+            </div>
+          </div>
+        </div>
+        <div class=3D"row">
+          <div class=3D"col-md-4">
+            <div class=3D"service-box">
+              <div class=3D"service-ico">
+                <span class=3D"ico-circle"><i class=3D"bi bi-briefcase"></i=
+></span>
+              </div>
+              <div class=3D"service-content">
+                <h2 class=3D"s-title">Website &amp; App Design</h2>
+                <p class=3D"s-description text-center">
+                  Desain inovatif untuk situs web dan aplikasi mobile, menc=
+iptakan pengalaman pengguna yang menarik dan mudah dipahami.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"service-box">
+              <div class=3D"service-ico">
+                <span class=3D"ico-circle"><i class=3D"bi bi-card-checklist=
+"></i></span>
+              </div>
+              <div class=3D"service-content">
+                <h2 class=3D"s-title">Consulting &amp; Training</h2>
+                <p class=3D"s-description text-center">
+                  Konsultasi dan pelatihan dalam desain UI/UX. Dapatkan sar=
+an ahli dan pelatihan untuk meningkatkan keterampilan desain Anda.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"service-box">
+              <div class=3D"service-ico">
+                <span class=3D"ico-circle"><i class=3D"bi bi-bar-chart"></i=
+></span>
+              </div>
+              <div class=3D"service-content">
+                <h2 class=3D"s-title">Technology Integration</h2>
+                <p class=3D"s-description text-center">
+                  Mengintegrasikan teknologi terkini seperti kecerdasan bua=
+tan dan realitas virtual untuk meningkatkan kinerja pengalaman pengguna and=
+a.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"service-box">
+              <div class=3D"service-ico">
+                <span class=3D"ico-circle"><i class=3D"bi bi-binoculars"></=
+i></span>
+              </div>
+              <div class=3D"service-content">
+                <h2 class=3D"s-title">Responsive Design</h2>
+                <p class=3D"s-description text-center">
+                  Desain yang responsif untuk situs web dan aplikasi. Pasti=
+kan pengguna dapat mengakses dengan lancar dari berbagai perangkat dan laya=
+r.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"service-box">
+              <div class=3D"service-ico">
+                <span class=3D"ico-circle"><i class=3D"bi bi-brightness-hig=
+h"></i></span>
+              </div>
+              <div class=3D"service-content">
+                <h2 class=3D"s-title">Graphic Design</h2>
+                <p class=3D"s-description text-center">
+                  Meningkatkan identitas merek Anda dengan desain grafis ya=
+ng menarik. Dari logo hingga ilustrasi
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"service-box">
+              <div class=3D"service-ico">
+                <span class=3D"ico-circle"><i class=3D"bi bi-calendar4-week=
+"></i></span>
+              </div>
+              <div class=3D"service-content">
+                <h2 class=3D"s-title">User Research</h2>
+                <p class=3D"s-description text-center">
+                  Memahami kebutuhan pengguna melalui analisis dan wawancar=
+a. Membantu menciptakan pengalaman pengguna yang lebih baik.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>=20
+    </section><!-- End Services Section -->
+
+    <!-- =3D=3D=3D=3D=3D=3D=3D Counter Section =3D=3D=3D=3D=3D=3D=3D -->
+    <div class=3D"section-counter paralax-mf bg-image" style=3D"background-=
+image: url(assets/img/counters-bg.jpg)">
+      <div class=3D"overlay-mf"></div>
+      <div class=3D"container position-relative">
+        <div class=3D"row">
+          <div class=3D"col-sm-3 col-lg-3">
+            <div class=3D"counter-box counter-box pt-4 pt-md-0">
+              <div class=3D"counter-ico">
+                <span class=3D"ico-circle"><i class=3D"bi bi-check"></i></s=
+pan>
+              </div>
+              <div class=3D"counter-num">
+                <p data-purecounter-start=3D"0" data-purecounter-end=3D"450=
+" data-purecounter-duration=3D"1" class=3D"counter purecounter"></p>
+                <span class=3D"counter-text">WORKS COMPLETED</span>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-sm-3 col-lg-3">
+            <div class=3D"counter-box pt-4 pt-md-0">
+              <div class=3D"counter-ico">
+                <span class=3D"ico-circle"><i class=3D"bi bi-journal-richte=
+xt"></i></span>
+              </div>
+              <div class=3D"counter-num">
+                <p data-purecounter-start=3D"0" data-purecounter-end=3D"25"=
+ data-purecounter-duration=3D"1" class=3D"counter purecounter"></p>
+                <span class=3D"counter-text">YEARS OF EXPERIENCE</span>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-sm-3 col-lg-3">
+            <div class=3D"counter-box pt-4 pt-md-0">
+              <div class=3D"counter-ico">
+                <span class=3D"ico-circle"><i class=3D"bi bi-people"></i></=
+span>
+              </div>
+              <div class=3D"counter-num">
+                <p data-purecounter-start=3D"0" data-purecounter-end=3D"550=
+" data-purecounter-duration=3D"1" class=3D"counter purecounter"></p>
+                <span class=3D"counter-text">TOTAL CLIENTS</span>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-sm-3 col-lg-3">
+            <div class=3D"counter-box pt-4 pt-md-0">
+              <div class=3D"counter-ico">
+                <span class=3D"ico-circle"><i class=3D"bi bi-award"></i></s=
+pan>
+              </div>
+              <div class=3D"counter-num">
+                <p data-purecounter-start=3D"0" data-purecounter-end=3D"48"=
+ data-purecounter-duration=3D"1" class=3D"counter purecounter"></p>
+                <span class=3D"counter-text">AWARD WON</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><!-- End Counter Section -->
+
+    <!-- =3D=3D=3D=3D=3D=3D=3D Portfolio Section =3D=3D=3D=3D=3D=3D=3D -->
+    <section id=3D"work" class=3D"portfolio-mf sect-pt4 route">
+      <div class=3D"container">
+        <div class=3D"row">
+          <div class=3D"col-sm-12">
+            <div class=3D"title-box text-center">
+              <h3 class=3D"title-a">
+                Portfolio
+              </h3>
+              <p class=3D"subtitle-a">
+                Menginspirasi melalui desain yang memukau
+              </p>
+              <div class=3D"line-mf"></div>
+            </div>
+          </div>
+        </div>
+        <div class=3D"row">
+          <div class=3D"col-md-4">
+            <div class=3D"work-box">
+              <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/im=
+g/Foods.png" data-gallery=3D"portfolioGallery" class=3D"portfolio-lightbox"=
+>
+                <div class=3D"work-img">
+                  <img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/asse=
+ts/img/Foods.png" alt=3D"" class=3D"img-fluid">
+                </div>
+              </a>
+              <div class=3D"work-content">
+                <div class=3D"row">
+                  <div class=3D"col-sm-8">
+                    <h2 class=3D"w-title">Flavor Food</h2>
+                    <div class=3D"w-more">
+                      <span class=3D"w-ctegory">Web Design</span> / <span c=
+lass=3D"w-date">18 Sep. 2018</span>
+                    </div>
+                  </div>
+                  <div class=3D"col-sm-4">
+                    <div class=3D"w-like">
+                      <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/p=
+ortfolio-details.html"> <span class=3D"bi bi-plus-circle"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"work-box">
+              <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/im=
+g/klik%20obat.png" data-gallery=3D"portfolioGallery" class=3D"portfolio-lig=
+htbox">
+                <div class=3D"work-img">
+                  <img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/asse=
+ts/img/klik%20obat.png" alt=3D"" class=3D"img-fluid">
+                </div>
+              </a>
+              <div class=3D"work-content">
+                <div class=3D"row">
+                  <div class=3D"col-sm-8">
+                    <h2 class=3D"w-title">Klik Obat</h2>
+                    <div class=3D"w-more">
+                      <span class=3D"w-ctegory">Web Design</span> / <span c=
+lass=3D"w-date">18 Sep. 2018</span>
+                    </div>
+                  </div>
+                  <div class=3D"col-sm-4">
+                    <div class=3D"w-like">
+                      <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/p=
+ortfolio-details.html"> <span class=3D"bi bi-plus-circle"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"work-box">
+              <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/im=
+g/premier%20league.png" data-gallery=3D"portfolioGallery" class=3D"portfoli=
+o-lightbox">
+                <div class=3D"work-img">
+                  <img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/asse=
+ts/img/premier%20league.png" alt=3D"" class=3D"img-fluid">
+                </div>
+              </a>
+              <div class=3D"work-content">
+                <div class=3D"row">
+                  <div class=3D"col-sm-8">
+                    <h2 class=3D"w-title">Mavrito Lana Dere</h2>
+                    <div class=3D"w-more">
+                      <span class=3D"w-ctegory">Web Design</span> / <span c=
+lass=3D"w-date">18 Sep. 2018</span>
+                    </div>
+                  </div>
+                  <div class=3D"col-sm-4">
+                    <div class=3D"w-like">
+                      <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/p=
+ortfolio-details.html"> <span class=3D"bi bi-plus-circle"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"work-box">
+              <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/im=
+g/work-4.jpg" data-gallery=3D"portfolioGallery" class=3D"portfolio-lightbox=
+">
+                <div class=3D"work-img">
+                  <img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/asse=
+ts/img/work-4.jpg" alt=3D"" class=3D"img-fluid">
+                </div>
+              </a>
+              <div class=3D"work-content">
+                <div class=3D"row">
+                  <div class=3D"col-sm-8">
+                    <h2 class=3D"w-title">Bindo Laro Cado</h2>
+                    <div class=3D"w-more">
+                      <span class=3D"w-ctegory">Web Design</span> / <span c=
+lass=3D"w-date">18 Sep. 2018</span>
+                    </div>
+                  </div>
+                  <div class=3D"col-sm-4">
+                    <div class=3D"w-like">
+                      <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/p=
+ortfolio-details.html"> <span class=3D"bi bi-plus-circle"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"work-box">
+              <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/im=
+g/work-5.jpg" data-gallery=3D"portfolioGallery" class=3D"portfolio-lightbox=
+">
+                <div class=3D"work-img">
+                  <img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/asse=
+ts/img/work-5.jpg" alt=3D"" class=3D"img-fluid">
+                </div>
+              </a>
+              <div class=3D"work-content">
+                <div class=3D"row">
+                  <div class=3D"col-sm-8">
+                    <h2 class=3D"w-title">Studio Lena Mado</h2>
+                    <div class=3D"w-more">
+                      <span class=3D"w-ctegory">Web Design</span> / <span c=
+lass=3D"w-date">18 Sep. 2018</span>
+                    </div>
+                  </div>
+                  <div class=3D"col-sm-4">
+                    <div class=3D"w-like">
+                      <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/p=
+ortfolio-details.html"> <span class=3D"bi bi-plus-circle"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"work-box">
+              <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/im=
+g/work-6.jpg" data-gallery=3D"portfolioGallery" class=3D"portfolio-lightbox=
+">
+                <div class=3D"work-img">
+                  <img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/asse=
+ts/img/work-6.jpg" alt=3D"" class=3D"img-fluid">
+                </div>
+              </a>
+              <div class=3D"work-content">
+                <div class=3D"row">
+                  <div class=3D"col-sm-8">
+                    <h2 class=3D"w-title">Studio Big Bang</h2>
+                    <div class=3D"w-more">
+                      <span class=3D"w-ctegory">Web Design</span> / <span c=
+lass=3D"w-date">18 Sep. 2017</span>
+                    </div>
+                  </div>
+                  <div class=3D"col-sm-4">
+                    <div class=3D"w-like">
+                      <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/p=
+ortfolio-details.html"> <span class=3D"bi bi-plus-circle"></span></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section><!-- End Portfolio Section -->
+
+    <!-- =3D=3D=3D=3D=3D=3D=3D Testimonials Section =3D=3D=3D=3D=3D=3D=3D -=
+->
+    <div class=3D"testimonials paralax-mf bg-image" style=3D"background-ima=
+ge: url(assets/img/overlay-bg.jpg)">
+      <div class=3D"overlay-mf"></div>
+      <div class=3D"container">
+        <div class=3D"row">
+          <div class=3D"col-md-12">
+
+            <div class=3D"testimonials-slider swiper" data-aos=3D"fade-up" =
+data-aos-delay=3D"100">
+              <div class=3D"swiper-wrapper">
+
+                <div class=3D"swiper-slide">
+                  <div class=3D"testimonial-box">
+                    <div class=3D"author-test">
+                      <img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/=
+assets/img/testimonial-2.jpg" alt=3D"" class=3D"rounded-circle b-shadow-a">
+                      <span class=3D"author">Xavi Alonso</span>
+                    </div>
+                    <div class=3D"content-test">
+                      <p class=3D"description lead">
+                        Curabitur arcu erat, accumsan id imperdiet et, port=
+titor at sem. Lorem ipsum dolor sit amet,
+                        consectetur adipiscing elit.
+                      </p>
+                    </div>
+                  </div>
+                </div><!-- End testimonial item -->
+
+                <div class=3D"swiper-slide">
+                  <div class=3D"testimonial-box">
+                    <div class=3D"author-test">
+                      <img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/=
+assets/img/testimonial-4.jpg" alt=3D"" class=3D"rounded-circle b-shadow-a">
+                      <span class=3D"author">Marta Socrate</span>
+                    </div>
+                    <div class=3D"content-test">
+                      <p class=3D"description lead">
+                        Curabitur arcu erat, accumsan id imperdiet et, port=
+titor at sem. Lorem ipsum dolor sit amet,
+                        consectetur adipiscing elit.
+                      </p>
+                    </div>
+                  </div>
+                </div><!-- End testimonial item -->
+              </div>
+              <div class=3D"swiper-pagination"></div>
+            </div>
+
+            <!-- <div id=3D"testimonial-mf" class=3D"owl-carousel owl-theme=
+">
+         =20
+        </div> -->
+          </div>
+        </div>
+      </div>
+    </div><!-- End Testimonials Section -->
+
+    <!-- =3D=3D=3D=3D=3D=3D=3D Blog Section =3D=3D=3D=3D=3D=3D=3D -->
+    <section id=3D"blog" class=3D"blog-mf sect-pt4 route">
+      <div class=3D"container">
+        <div class=3D"row">
+          <div class=3D"col-sm-12">
+            <div class=3D"title-box text-center">
+              <h3 class=3D"title-a">
+                Artikel
+              </h3>
+              <p class=3D"subtitle-a">
+                Jelajahi dunia desain UI/UX melalui artikel-artikel kami ya=
+ng informatif dan inspiratif
+              </p>
+              <div class=3D"line-mf"></div>
+            </div>
+          </div>
+        </div>
+        <div class=3D"row">
+          <div class=3D"col-md-4">
+            <div class=3D"card card-blog">
+              <div class=3D"card-img">
+                <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/blog-si=
+ngle.html"><img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/img/=
+post-1.jpg" alt=3D"" class=3D"img-fluid"></a>
+              </div>
+              <div class=3D"card-body">
+                <div class=3D"card-category-box">
+                  <div class=3D"card-category">
+                    <h6 class=3D"category">Travel</h6>
+                  </div>
+                </div>
+                <h3 class=3D"card-title"><a href=3D"file:///C:/Users/Galank=
+/OneDrive/Desktop/blog-single.html">See more ideas about Travel</a></h3>
+                <p class=3D"card-description">
+                  Proin eget tortor risus. Pellentesque in ipsum id orci po=
+rta dapibus. Praesent sapien massa, convallis
+                  a pellentesque nec,
+                  egestas non nisi.
+                </p>
+              </div>
+              <div class=3D"card-footer">
+                <div class=3D"post-author">
+                  <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/index=
+.html#">
+                    <img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/as=
+sets/img/testimonial-2.jpg" alt=3D"" class=3D"avatar rounded-circle">
+                    <span class=3D"author">Morgan Freeman</span>
+                  </a>
+                </div>
+                <div class=3D"post-date">
+                  <span class=3D"bi bi-clock"></span> 10 min
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"card card-blog">
+              <div class=3D"card-img">
+                <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/blog-si=
+ngle.html"><img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/img/=
+post-2.jpg" alt=3D"" class=3D"img-fluid"></a>
+              </div>
+              <div class=3D"card-body">
+                <div class=3D"card-category-box">
+                  <div class=3D"card-category">
+                    <h6 class=3D"category">Web Design</h6>
+                  </div>
+                </div>
+                <h3 class=3D"card-title"><a href=3D"file:///C:/Users/Galank=
+/OneDrive/Desktop/blog-single.html">See more ideas about Travel</a></h3>
+                <p class=3D"card-description">
+                  Proin eget tortor risus. Pellentesque in ipsum id orci po=
+rta dapibus. Praesent sapien massa, convallis
+                  a pellentesque nec,
+                  egestas non nisi.
+                </p>
+              </div>
+              <div class=3D"card-footer">
+                <div class=3D"post-author">
+                  <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/index=
+.html#">
+                    <img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/as=
+sets/img/testimonial-2.jpg" alt=3D"" class=3D"avatar rounded-circle">
+                    <span class=3D"author">Morgan Freeman</span>
+                  </a>
+                </div>
+                <div class=3D"post-date">
+                  <span class=3D"bi bi-clock"></span> 10 min
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class=3D"col-md-4">
+            <div class=3D"card card-blog">
+              <div class=3D"card-img">
+                <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/blog-si=
+ngle.html"><img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/assets/img/=
+post-3.jpg" alt=3D"" class=3D"img-fluid"></a>
+              </div>
+              <div class=3D"card-body">
+                <div class=3D"card-category-box">
+                  <div class=3D"card-category">
+                    <h6 class=3D"category">Web Design</h6>
+                  </div>
+                </div>
+                <h3 class=3D"card-title"><a href=3D"file:///C:/Users/Galank=
+/OneDrive/Desktop/blog-single.html">See more ideas about Travel</a></h3>
+                <p class=3D"card-description">
+                  Proin eget tortor risus. Pellentesque in ipsum id orci po=
+rta dapibus. Praesent sapien massa, convallis
+                  a pellentesque nec,
+                  egestas non nisi.
+                </p>
+              </div>
+              <div class=3D"card-footer">
+                <div class=3D"post-author">
+                  <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/index=
+.html#">
+                    <img src=3D"file:///C:/Users/Galank/OneDrive/Desktop/as=
+sets/img/testimonial-2.jpg" alt=3D"" class=3D"avatar rounded-circle">
+                    <span class=3D"author">Morgan Freeman</span>
+                  </a>
+                </div>
+                <div class=3D"post-date">
+                  <span class=3D"bi bi-clock"></span> 10 min
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Blog Section -->
+
+    <!-- =3D=3D=3D=3D=3D=3D=3D Contact Section =3D=3D=3D=3D=3D=3D=3D -->
+    <section id=3D"contact" class=3D"paralax-mf footer-paralax bg-image sec=
+t-mt4 route" style=3D"background-image: url(assets/img/overlay-bg.jpg)">
+      <div class=3D"overlay-mf"></div>
+      <div class=3D"container">
+        <div class=3D"row">
+          <div class=3D"col-sm-12">
+            <div class=3D"contact-mf">
+              <div id=3D"contact" class=3D"box-shadow-full">
+                <div class=3D"row">
+                  <div class=3D"col-md-6">
+                    <div class=3D"title-box-2">
+                      <h5 class=3D"title-left">
+                        Kirim Pesan Kami
+                      </h5>
+                    </div>
+                    <div>
+                      <form action=3D"file:///C:/Users/Galank/OneDrive/Desk=
+top/forms/contact.php" method=3D"post" role=3D"form" class=3D"php-email-for=
+m">
+                        <div class=3D"row">
+                          <div class=3D"col-md-12 mb-3">
+                            <div class=3D"form-group">
+                              <input type=3D"text" name=3D"name" class=3D"f=
+orm-control" id=3D"name" placeholder=3D"Your Name" required=3D"">
+                            </div>
+                          </div>
+                          <div class=3D"col-md-12 mb-3">
+                            <div class=3D"form-group">
+                              <input type=3D"email" class=3D"form-control" =
+name=3D"email" id=3D"email" placeholder=3D"Your Email" required=3D"">
+                            </div>
+                          </div>
+                          <div class=3D"col-md-12 mb-3">
+                            <div class=3D"form-group">
+                              <input type=3D"text" class=3D"form-control" n=
+ame=3D"subject" id=3D"subject" placeholder=3D"Subject" required=3D"">
+                            </div>
+                          </div>
+                          <div class=3D"col-md-12">
+                            <div class=3D"form-group">
+                              <textarea class=3D"form-control" name=3D"mess=
+age" rows=3D"5" placeholder=3D"Message" required=3D""></textarea>
+                            </div>
+                          </div>
+                          <div class=3D"col-md-12 text-center my-3">
+                            <div class=3D"loading">Loading</div>
+                            <div class=3D"error-message"></div>
+                            <div class=3D"sent-message">Your message has be=
+en sent. Thank you!</div>
+                          </div>
+                          <div class=3D"col-md-12 text-center">
+                            <button type=3D"submit" class=3D"button button-=
+a button-big button-rouded">Kirim</button>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                  <div class=3D"col-md-6">
+                    <div class=3D"title-box-2 pt-4 pt-md-0">
+                      <h5 class=3D"title-left">
+                        Berhubungan
+                      </h5>
+                    </div>
+                    <div class=3D"more-info">
+                      <p class=3D"lead">
+                        Lorem ipsum dolor sit amet consectetur adipisicing =
+elit. Facilis dolorum dolorem soluta quidem
+                        expedita aperiam aliquid at.
+                        Totam magni ipsum suscipit amet? Autem nemo esse la=
+boriosam ratione nobis
+                        mollitia inventore?
+                      </p>
+                      <ul class=3D"list-ico">
+                        <li><span class=3D"bi bi-geo-alt"></span> Lawang</l=
+i>
+                        <li><span class=3D"bi bi-phone"></span> +6282134565=
+218</li>
+                        <li><span class=3D"bi bi-envelope"></span> galankfr=
+ny@gmail.com</li>
+                      </ul>
+                    </div>
+                    <div class=3D"socials">
+                      <ul>
+                       =20
+                        <li><a href=3D"file:///C:/Users/Galank/OneDrive/Des=
+ktop/%3Ehttps://www.instagram.com/galank_fariant/?next=3D%2F&amp;hl=3Denspa=
+n%20class=3D" ico-circle=3D""><i class=3D"bi bi-instagram"></i></a></li>
+                       =20
+                       =20
+                    </ul></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- =3D=3D=3D=3D=3D=3D=3D Footer =3D=3D=3D=3D=3D=3D=3D -->
+  <footer>
+    <div class=3D"container">
+      <div class=3D"row">
+        <div class=3D"col-sm-12">
+          <div class=3D"copyright-box">
+            <p class=3D"copyright">=C2=A9 Copyright <strong>DevFolio</stron=
+g>. All Rights Reserved</p>
+            <div class=3D"credits">
+              <!--
+              All the links in the footer should remain intact.
+              You can delete the links only if you purchased the pro versio=
+n.
+              Licensing information: https://bootstrapmade.com/license/
+              Purchase the pro version with working PHP/AJAX contact form: =
+https://bootstrapmade.com/buy/?theme=3DDevFolio
+            -->
+              Designed by <a href=3D"https://bootstrapmade.com/">BootstrapM=
+ade</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <div id=3D"preloader"></div>
+  <a href=3D"file:///C:/Users/Galank/OneDrive/Desktop/index.html#" class=3D=
+"back-to-top d-flex align-items-center justify-content-center"><i class=3D"=
+bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+
+  <!-- Template Main JS File -->
+ =20
+
+
+
+</body></html>
+------MultipartBoundary--9eIXSKPPr7GDTKoxtX7o8rxd1A1g1vYJEGUie7z6B1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Galank/OneDrive/Desktop/assets/vendor/bootstrap/css/bootstrap.min.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--9eIXSKPPr7GDTKoxtX7o8rxd1A1g1vYJEGUie7z6B1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Galank/OneDrive/Desktop/assets/vendor/bootstrap-icons/bootstrap-icons.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--9eIXSKPPr7GDTKoxtX7o8rxd1A1g1vYJEGUie7z6B1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Galank/OneDrive/Desktop/assets/vendor/glightbox/css/glightbox.min.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--9eIXSKPPr7GDTKoxtX7o8rxd1A1g1vYJEGUie7z6B1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Galank/OneDrive/Desktop/assets/vendor/swiper/swiper-bundle.min.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--9eIXSKPPr7GDTKoxtX7o8rxd1A1g1vYJEGUie7z6B1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Galank/OneDrive/Desktop/assets/css/style.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--9eIXSKPPr7GDTKoxtX7o8rxd1A1g1vYJEGUie7z6B1------
